@@ -1,0 +1,20 @@
+h1 {
+	color: SlateBlue;
+	font-family: sans-serif;
+	font-size: 200;
+}
+
+.snowflake {
+	font-style: italic;
+	font-weight: bold;
+	border: 1px solid;
+}
+
+#emma {
+	padding: 30px; 
+	margin: 70px;
+	border: 4px Tomato solid;
+	background-color: SpringGreen;
+	font-size: 20px;
+	cursor: progress;
+}
